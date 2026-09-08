@@ -2,236 +2,230 @@
 
 ### Full-Stack Developer | Backend Engineer | AI-Integrated Applications
 
-I'm a **B.Tech Information Technology student** passionate about building scalable web applications, reliable backend systems, and AI-powered products.
+I enjoy building practical software that combines **strong backend engineering, clean user experiences, and AI capabilities**.
 
-I enjoy solving engineering problems involving **APIs, databases, asynchronous processing, distributed systems, system reliability, and AI/LLM integration**.
+I'm currently focused on developing scalable web applications, REST APIs, backend services, and AI-powered features while continuously improving my problem-solving and system-design skills.
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 - 🎓 B.Tech Information Technology student
-- 💻 Building full-stack and backend applications
-- 🤖 Interested in AI-powered application development and LLM integration
-- 🧩 Enjoy working with APIs, databases, distributed systems, and system design
-- 🧠 Practicing Data Structures & Algorithms and strengthening problem-solving skills
-- 🛠️ Focused on writing maintainable, testable, and production-oriented software
-- 📚 Currently deepening my knowledge of backend engineering and system design
+- 💻 Interested in **Full-Stack Development & Backend Engineering**
+- 🤖 Exploring **AI/LLM integration in real-world applications**
+- 🧩 Strong interest in **DSA, APIs, databases, and scalable systems**
+- 🚀 Enjoy building projects that solve practical problems
+- 📚 Continuously learning through hands-on projects
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ My Engineering Toolkit
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
-</p>
-
-### 🗄️ Databases & Messaging
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,rabbitmq" />
-</p>
-
-### 🤖 AI / LLM
-
-- Google Gemini
-- LLM API Integration
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- AI-powered application workflows
-- Natural-language interfaces
-
-### 🐳 DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman,vscode" />
-</p>
+| Area | Technologies |
+|---|---|
+| **Languages** | Java · Python · JavaScript · TypeScript |
+| **Frontend** | React.js · Next.js · HTML · CSS · Tailwind CSS |
+| **Backend** | Node.js · Express.js · FastAPI · Spring Boot |
+| **Databases** | MongoDB · MySQL · PostgreSQL · Redis |
+| **AI / LLM** | Gemini · LLM Integration · RAG · Prompt Engineering |
+| **APIs & Architecture** | REST APIs · Microservices · SSE · Webhooks |
+| **DevOps & Tools** | Git · GitHub · GitHub Actions · Docker · Postman |
+| **Deployment** | Render · Vercel |
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 FlowSync
+### 🔄 FlowSync
 
-**Java • Spring Boot • React • TypeScript • MySQL • JWT • Docker**
+**Full-Stack Workflow & Productivity Platform**
 
-A full-stack inventory and order management platform focused on real-world backend engineering challenges.
+A full-stack application focused on workflow management and productivity.
 
-**Key Highlights**
-
-- 🔐 Fine-grained authentication and role-based access control
-- 🔄 Transactional order processing
-- 🔒 Pessimistic locking for checkout operations
-- ⚡ Optimistic locking for inventory management
-- 🏭 Multi-warehouse transfer workflows
-- 📝 Immutable audit logging
-- 🧪 Automated unit and integration testing
-- 🐳 Dockerized application architecture
-- ☁️ AWS-oriented deployment architecture
-
-🔗 **[View Repository](https://github.com/KvPradeepthi/flowsync)**
+**Focus:** Full-Stack Development · REST APIs · Backend Architecture · Database Management
 
 ---
 
-### 🔹 Medi-AI
+### 🏥 Medi-AI
 
-**React • TypeScript • Node.js • Express • FastAPI • Gemini • MongoDB • ChromaDB**
+**AI-Powered Healthcare Management & Assistance Platform**
 
-An AI-powered healthcare assistance and management platform combining full-stack development with modern AI capabilities.
+A full-stack healthcare platform combining AI capabilities with healthcare management features.
 
-**Key Highlights**
+**Highlights:**
 
-- 🤖 AI-powered assistance
-- 📚 Retrieval-Augmented Generation (RAG)
-- 📄 OCR-based document processing
-- 📊 Health dashboard
-- 📅 Appointment management
-- 💬 Real-time communication
-- 💊 Medicine compliance features
-- 🧩 Multi-service architecture
+- AI-powered assistance
+- RAG-based information retrieval
+- OCR capabilities
+- Health dashboard
+- Appointment management
+- Medicine compliance features
+- Doctor and admin modules
+- Real-time communication
 
-> ⚠️ **Disclaimer:** Medi-AI is an educational/demo software project. AI-generated information may be inaccurate and should not be used as a substitute for professional medical advice, diagnosis, treatment, or clinical decision-making.
-
-🔗 **[View Repository](https://github.com/KvPradeepthi/Medi-AI)**
+**Tech:** React · TypeScript · Node.js · Express · FastAPI · MongoDB · ChromaDB · Gemini · Socket.io
 
 ---
 
-### 🔹 LateComers
+### 🎓 LateComers
 
-**React • Node.js • Express • MongoDB • Gemini AI • Cron Jobs**
+**Campus Attendance & Latecomer Management Platform**
 
-A university attendance and latecomer management platform designed around real-world campus workflows.
+A university-focused platform for managing student attendance, latecomers, faculty check-ins, notifications, and reporting.
 
-**Key Highlights**
+**My Contribution:**
 
-- 🎓 Attendance and latecomer management
-- 📱 Barcode-based scanning
-- 👨‍🏫 Faculty check-in workflows
-- 📊 Automated monthly reports
-- 📩 Email/SMS notification automation
-- 🤖 Gemini-powered natural-language query assistant
-- 🔌 REST API architecture
-- 🗄️ MongoDB-based data management
+- Developed backend REST APIs
+- Designed MongoDB schemas
+- Implemented automated background jobs
+- Integrated notification workflows
+- Integrated Gemini AI functionality
+- Worked on backend architecture and API integration
 
-**My Contribution**
-
-Backend development, REST API implementation, MongoDB schema design, notification automation, and Gemini AI integration.
-
-🔗 **[View Repository](https://github.com/KvPradeepthi/LateComers)**
+**Tech:** React · Node.js · Express.js · MongoDB · Gemini AI · Cron Jobs · REST APIs
 
 ---
 
-### 🔹 Application Tracking System API
+### 📋 Application Tracking System API
 
-**TypeScript • Node.js • Redis • BullMQ • Docker**
+**Backend API for Job Application Management**
 
-A backend API designed around application management workflows, multi-tenancy, asynchronous processing, and auditability.
+A backend-focused application designed around managing and tracking job applications through structured APIs.
 
-**Key Highlights**
-
-- 🏢 Multi-tenant architecture
-- 🔐 Role-based access control
-- 🔄 State-machine based workflows
-- ⚡ Redis and BullMQ background jobs
-- 📬 Asynchronous notification processing
-- 💾 Transactional integrity
-- 📝 Audit trails
-- 🧪 Automated testing
-- 📖 API documentation
-
-🔗 **[View Repository](https://github.com/KvPradeepthi/Application-Tracking-System-API)**
+**Focus:** Backend Engineering · REST APIs · Database Design · API Architecture
 
 ---
 
-### 🔹 Asynchronous Data Ingestion
+### ⚡ Asynchronous Data Ingestion
 
-**Python • FastAPI • RabbitMQ • PostgreSQL • Docker**
+**Scalable Data Processing Service**
 
-An event-driven data ingestion pipeline designed for reliable asynchronous processing.
+A backend system designed around asynchronous data ingestion and processing.
 
-**Key Highlights**
-
-- 📤 Producer/consumer architecture
-- 📨 RabbitMQ messaging
-- 🔁 Idempotent processing
-- ♻️ Retry with exponential backoff
-- 💀 Dead-letter queue handling
-- 🗄️ PostgreSQL persistence
-- 📋 Structured logging
-- 🧪 Unit and integration testing
-- 🐳 Dockerized development environment
-
-🔗 **[View Repository](https://github.com/KvPradeepthi/asynchronous-data-ingestion)**
+**Focus:** Backend Systems · Async Processing · API Design · Reliability
 
 ---
 
-### 🔹 Live Dashboard CSV Export
+### 📊 Live Dashboard CSV Export
 
-**Express • WebSockets • Redis Pub/Sub • PostgreSQL**
+**Real-Time Dashboard & Data Export System**
 
-A backend system for processing large CSV exports asynchronously while providing real-time progress updates.
+A dashboard-oriented application combining live data visualization with CSV export functionality.
 
-**Key Highlights**
-
-- 📊 Large-scale CSV export
-- ⚙️ Background worker processing
-- 🔄 Redis Pub/Sub
-- 📡 WebSocket-based progress updates
-- ⏱️ Real-time ETA and processing speed
-- ❌ Export cancellation
-- 🗄️ PostgreSQL data storage
-- 🐳 Dockerized architecture
-
-🔗 **[View Repository](https://github.com/KvPradeepthi/live-dashboard-csv-export)**
+**Focus:** Data Processing · APIs · Real-Time Updates · Frontend Integration
 
 ---
 
-## 🧠 Other Engineering Projects
+## 🧩 Other Engineering Projects
 
-I also build and experiment with systems involving:
+I also work on projects involving:
 
-- 🔄 Workflow engines and command patterns
-- ⚡ Fault-tolerant microservices
-- 🛡️ Authentication and security
-- 📡 Real-time APIs and Server-Sent Events
-- 📊 Spreadsheet calculation engines
-- 🌐 Network packet simulation
-- 🤖 LLM prompt routing
-- 🔍 Candidate data transformation and validation
-- 📦 Custom Python libraries
-- 🧩 Resilient API architectures
+- Command-pattern workflow engines
+- Fault-tolerant recommendation services
+- Service proxy APIs
+- Payment gateway systems
+- Multi-tenant SaaS architecture
+- Spreadsheet engines
+- LLM prompt routing
+- Network packet tracing
+- PKI and 2FA services
+- Custom CSV processing
+- AI-powered student applications
+- Transformer/data-processing systems
 
-👉 **[Explore all my repositories](https://github.com/KvPradeepthi?tab=repositories)**
+These projects help me explore **backend architecture, distributed systems concepts, API design, reliability, and AI integration**.
 
 ---
 
-## 💡 Engineering Interests
+## 🧠 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** and focus on understanding patterns rather than memorizing solutions.
+
+### Areas I Practice
+
+`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window` · `Stack` · `Queue` · `Linked List` · `Trees` · `Graphs` · `Recursion` · `Dynamic Programming` · `Greedy` · `Binary Search` · `Heaps`
+
+> Solving problems consistently and learning from each approach is an important part of my development journey.
+
+---
+
+## 🏗️ What I Like Building
+
+I particularly enjoy working on applications involving:
+
+**Backend Systems**  
+→ REST APIs · Authentication · Database Design · Background Jobs
+
+**Full-Stack Applications**  
+→ React · Node.js · API Integration · Deployment
+
+**AI-Powered Applications**  
+→ LLM Integration · RAG · Prompt Engineering · AI Assistants
+
+**System-Oriented Projects**  
+→ Microservices · Fault Tolerance · Async Processing · Event-Driven Concepts
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced backend architecture
+- System design fundamentals
+- Scalable API development
+- Microservices
+- Distributed systems concepts
+- AI application development
+- LLM-powered workflows
+- Cloud deployment
+- Advanced DSA patterns
+
+---
+
+## 📌 Engineering Philosophy
 
 ```text
-Full-Stack Development
-        ↓
-Backend Engineering
-        ↓
-APIs & Databases
-        ↓
-Concurrency & Async Processing
-        ↓
-Distributed Systems
-        ↓
-Reliability & Fault Tolerance
-        ↓
-AI / LLM Integration
+Build → Break → Understand → Improve → Repeat
+```
+
+I believe the best way to learn software engineering is to **build real things, understand why they work, and continuously improve them.**
+
+---
+
+## 🎓 Education
+
+**B.Tech — Information Technology**
+
+Currently pursuing my undergraduate degree with a focus on software development, computer science fundamentals, and practical engineering.
+
+---
+
+## 🏆 Achievements
+
+- 📌 Consistent Data Structures & Algorithms practice
+- 💻 Built multiple full-stack and backend engineering projects
+- 🤖 Developed applications integrating modern AI/LLM technologies
+- 🚀 Worked on a live university-focused software platform
+- 📚 Continuously improving software engineering and problem-solving skills
+
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/KvPradeepthi"
+    alt="Pradeepthi's GitHub Contribution Chart"
+    width="100%"
+  />
+</p>
+---
+
+## 🔗 Connect With Me
+
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/pradeepthi-kamichetty-bbb064295/)  
+**GitHub:** [KvPradeepthi](https://github.com/KvPradeepthi)
+
+---
+
+> Build with purpose. Learn continuously. Solve better.
+
+**Thanks for visiting my profile! ⭐**
