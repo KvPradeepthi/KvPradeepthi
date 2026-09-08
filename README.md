@@ -2,6 +2,10 @@
 
 ### Full-Stack Developer | Backend Engineer | AI-Integrated Applications
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KvPradeepthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 I enjoy building practical software that combines **strong backend engineering, clean user experiences, and AI capabilities**.
 
 I'm currently focused on developing scalable web applications, REST APIs, backend services, and AI-powered features while continuously improving my problem-solving and system-design skills.
