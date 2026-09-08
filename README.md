@@ -211,18 +211,6 @@ Currently pursuing my undergraduate degree with a focus on software development,
 - 🚀 Worked on a live university-focused software platform
 - 📚 Continuously improving software engineering and problem-solving skills
 
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/KvPradeepthi"
-    alt="Pradeepthi's GitHub Contribution Chart"
-    width="100%"
-  />
-</p>
----
-
 ## 🔗 Connect With Me
 
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pradeepthi-kamichetty-bbb064295/)  
